@@ -7,3 +7,5 @@ t-SNE (TSNE) converts affinities of data points to probabilities. The affinities
 
 
 The computer treats each gene as a dimension. Gene with similar gene expression will be clustered together. We need to be able to see these clusters in 3 dimensional space so it makes sense to our brains.     
+
+Consider running through the `Dementions.ipynb` to experence the presentation for your self. 
